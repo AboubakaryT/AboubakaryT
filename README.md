@@ -11,7 +11,7 @@ My Hobbies include:
 
 ## My Coding Skill: 
 
-![My Skills](https://skillicons.dev/icons?i=java,HTML)
+![My Skills](https://skillicons.dev/icons?i=java,html,css)
 
 ## IDE's that I use: 
 
