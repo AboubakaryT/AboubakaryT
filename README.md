@@ -23,7 +23,7 @@ My Hobbies include:
 ## Socials:
 
 <a href ="https://www.linkedin.com/in/aboubakary/"/> <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg " height = "30">
-<a href = "https://www.instagram.com/abougetback/?hl=en"/> <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height = "30">
+<a href = "https://mailto:aboubakarytr1@gmail.com"/> <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" height = "30">
 <!--
 **AboubakaryT/AboubakaryT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
