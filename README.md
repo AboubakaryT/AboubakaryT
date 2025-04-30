@@ -6,16 +6,15 @@ My Hobbies include:
 - Boxing
 - Working out
 - Hiking
-- Fishing
 - Self-learning Mathematics
 
 ## My Coding Skill: 
 
-![My Skills](https://skillicons.dev/icons?i=java,html,css)
+![My Skills](https://skillicons.dev/icons?i=py,java,html,css)
 
 ## IDE's that I use: 
 
-![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)
+![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)
 
 
 
