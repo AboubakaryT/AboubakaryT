@@ -1,5 +1,5 @@
 ## Hi there, My name is Aboubakary Traore (Abou)👋
-I am an undergraduate Computer Science student at Lehman College pursuing a minor in mathematics. As an aspiring Software Engineer, I work hard every day to improve my skills.
+I am an undergraduate computer science student at the University of Buffalo pursuing a minor in mathematics. As an aspiring Software Engineer, I work hard every day to improve my skills.
 
 My Hobbies include:
 
@@ -12,7 +12,7 @@ My Hobbies include:
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,html,css)
 
-## IDE's that I use: 
+## IDEs that I use: 
 
 ![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)
 
