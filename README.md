@@ -1,23 +1,9 @@
 ## Hi there, My name is Aboubakary Traore (Abou)👋
-I am an undergraduate computer science student at the University of Buffalo pursuing a minor in mathematics. As an aspiring Software Engineer, I work hard every day to improve my skills.
+I am an undergraduate computer science student at the University of Buffalo. I have experience building software professionally and work on my craft daily.
 
-My Hobbies include:
+## Coding:
 
-- Boxing
-- Working out
-- Hiking
-- Self-learning Mathematics
-
-## My Coding Skill: 
-
-![My Skills](https://skillicons.dev/icons?i=py,java,html,css)
-
-## IDEs that I use: 
-
-![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)
-
-
-
+![My Skills](https://skillicons.dev/icons?i=py,js,python,java,html,css)
 
 ## Socials:
 
