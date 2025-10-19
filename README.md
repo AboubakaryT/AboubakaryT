@@ -6,7 +6,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate Computer Science student at the University of Buffalo who lives and breathes code, while also balancing a social life. I don't just study software development, I build it professionally and refine my craft daily. Whether it's tackling complex algorithms or creating intuitive user experiences, I'm always pushing the boundaries of what I can create.
+I’m a Computer Science student at the University at Buffalo with a deep passion for building and learning. I love turning ideas into real software and continuously improving my skills through both coursework and hands-on projects. Whether I’m solving challenging problems or designing smooth user experiences, I’m always excited to keep growing as a developer.
 
 ```javascript
 const abou = {
