@@ -1,5 +1,4 @@
 # Hey there, I'm Aboubakary (Abou) 👋
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UBuffalo;Software+Developer;Building+Something+New+Every+Day)
@@ -7,7 +6,6 @@
 </div>
 
 ## 🚀 About Me
-
 I'm a passionate Computer Science student at the University of Buffalo who lives and breathes code. I don't just study software development, I build it professionally and refine my craft daily. Whether it's tackling complex algorithms or creating intuitive user experiences, I'm always pushing the boundaries of what I can create.
 
 ```javascript
@@ -21,7 +19,6 @@ const abou = {
 ```
 
 ## 💻 Tech Stack
-
 <div align="center">
 
 ### Languages & Frameworks
@@ -41,7 +38,6 @@ const abou = {
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
   
   ![Abou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AboubakaryT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -52,14 +48,20 @@ const abou = {
 
 </div>
 
-## 🔥 What I'm Up To
+## 💪 LeetCode Stats
 
+<div align="center">
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/AboubakaryT?theme=dark&font=Noto%20Sans&ext=heatmap)
+  
+</div>
+
+## 🔥 What I'm Up To
 - 🎓 Pursuing my BS in Computer Science at UBuffalo
 - 🌱 Constantly learning and experimenting with new technologies
 - ⚡ Daily LeetCode to keep my skills sharp
 
 ## 🎯 2025 Goals
-
 ```python
 goals_2025 = [
     "Master advanced data structures and algorithms",
@@ -67,13 +69,11 @@ goals_2025 = [
     "Land an amazing summer internship",
     "Help others learn to code"
 ]
-
 for goal in goals_2025:
     execute(goal, dedication="maximum")
 ```
 
 ## 📫 Let's Connect!
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubakary/)
