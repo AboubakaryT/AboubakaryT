@@ -13,7 +13,7 @@ const abou = {
     location: "Buffalo, NY",
     education: "University at Buffalo",
     currentFocus: ["Full-Stack Development", "Getting cracked"],
-    funFact: "I workout at least 3 days a week!",
+    funFact: "I workout at least 6 days a week!",
     availableFor: "Internships, Collaborations, and Interesting Projects"
 };
 ```
@@ -63,7 +63,7 @@ const abou = {
 
 ## 🎯 2025 Goals
 ```python
-goals_2025 = [
+goals_2026 = [
     "Master advanced data structures and algorithms",
     "Build a portfolio of impactful applications",
     "Land an amazing summer internship",
@@ -84,9 +84,7 @@ for goal in goals_2025:
 
 ---
 
-<div align="center">
-  
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+<div align="center">  
   
   ![Profile Views](https://komarev.com/ghpvc/?username=AboubakaryT&color=blueviolet&style=flat-square&label=Profile+Views)
   
