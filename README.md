@@ -13,7 +13,7 @@ const abou = {
     location: "Buffalo, NY",
     education: "University at Buffalo",
     currentFocus: ["Full-Stack Development", "Getting cracked"],
-    funFact: "I workout at least 6 days a week!",
+    funFact: "I workout at least 4 days a week!",
     availableFor: "Internships, Collaborations, and Interesting Projects"
 };
 ```
