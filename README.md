@@ -9,7 +9,7 @@
 I’m a Computer Science student at the University at Buffalo with a deep passion for building and learning. I love turning ideas into real software and continuously improving my skills through both coursework and hands-on projects. Whether I’m solving challenging problems or designing smooth user experiences, I’m always excited to keep growing as a developer.
 
 ```javascript
-const abou = {
+const Abou = {
     location: "Buffalo, NY",
     education: "University at Buffalo",
     currentFocus: ["Full-Stack Development", "Getting cracked"],
