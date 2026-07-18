@@ -14,7 +14,6 @@ const abou = {
     education: "University at Buffalo",
     currentFocus: ["Full-Stack Development", "Getting cracked"],
     funFact: "I workout at least 4 days a week!",
-    availableFor: "Internships, Collaborations, and Interesting Projects"
 };
 ```
 
