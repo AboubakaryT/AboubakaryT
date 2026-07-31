@@ -34,11 +34,11 @@ const Abou = {
 ```python
 goals_2026 = [
     "Master advanced data structures and algorithms",
-    "Build a portfolio of impactful applications",
-    "Land an amazing summer internship",
+    "Build a portfolio of impactful applications", 
+    "Land an amazing summer internship", ✅
     "Help others learn to code"
 ]
-for goal in goals_2025:
+for goal in goals_2026:
     execute(goal, dedication="maximum")
 ```
 
