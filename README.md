@@ -36,17 +36,6 @@ const Abou = {
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  
-  ![Abou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AboubakaryT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AboubakaryT&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AboubakaryT&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 💪 LeetCode Stats
 
 <div align="center">
