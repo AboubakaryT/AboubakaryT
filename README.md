@@ -30,7 +30,7 @@ const Abou = {
 - 🌱 Constantly learning and experimenting with new technologies
 - ⚡ Daily LeetCode to keep my skills sharp
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 ```python
 goals_2026 = [
     "Master advanced data structures and algorithms",
