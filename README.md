@@ -4,7 +4,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UBuffalo;Software+Developer;Building+Something+New+Every+Day)
   
 </div>
-## 💪 LeetCode Stats
+💪 LeetCode Stats
 
 <div align="center">
   
